@@ -20,7 +20,7 @@ It will include:
 
 2. Initialise git repo (if you want to use Git)
 
- (`git init`)
+ `git init`
 
 3. Make sure to install the dependencies:
 
@@ -66,7 +66,6 @@ const currentPage = "Prices";
 </template>
 
 <style scoped></style>
-
 ```
 
 ### Production
