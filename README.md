@@ -14,7 +14,7 @@ It will include:
 
 1. Scaffold this repository:
 
- `npx degit Noitcereon/nuxt3-template` [(what is degit?)](https://github.com/Rich-Harris/degit)
+ `npx degit Noitcereon/nuxt3-template your-project-name` [(what is degit?)](https://github.com/Rich-Harris/degit) 
 
  or use GitHub's "Use this template" feature
 
