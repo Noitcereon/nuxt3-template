@@ -14,15 +14,24 @@ It will include:
 
 1. Scaffold this repository:
 
- `npx degit Noitcereon/nuxt3-template your-project-name` [(what is degit?)](https://github.com/Rich-Harris/degit) 
+Either with De-git or GitHubs "Use this template" feature. Here I use degit:
 
- or use GitHub's "Use this template" feature
+ ```bash
+ npx degit Noitcereon/nuxt3-template your-project-name
+ ```
+ 
+ [(what is degit?)](https://github.com/Rich-Harris/degit) 
+ 
+2. Navigate to your-project-name folder 
+ ```bash
+ cd your-project-folder`
+```
+3. Initialise git repo (if you want to use Git):
+ ```bash
+ git init
+```
 
-2. Initialise git repo (if you want to use Git)
-
- `git init`
-
-3. Make sure to install the dependencies:
+4. Make sure to install the dependencies:
 
 ```bash
 # yarn
