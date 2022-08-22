@@ -26,12 +26,8 @@ Either with De-git or GitHubs "Use this template" feature. Here I use degit:
  ```bash
  cd your-project-folder`
 ```
-3. Initialise git repo (if you want to use Git):
- ```bash
- git init
-```
 
-4. Make sure to install the dependencies:
+3. Make sure to install the dependencies:
 
 ```bash
 # yarn
@@ -42,6 +38,11 @@ npm install
 
 # pnpm
 pnpm install --shamefully-hoist
+```
+
+4. Initialise git repo (if you want to use Git):
+ ```bash
+ git init
 ```
 
 ## Usage
